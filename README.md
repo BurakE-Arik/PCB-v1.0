@@ -1,4 +1,4 @@
-# Maritime LED Beacon - PCB Design v1.0 🌊
+# PCB Design v1.0 
 
 ## Description
 Bu proje, denizcilik sistemlerinde (şamandıra, deniz feneri vb.) kullanılan temel sinyalizasyon mantığını kavramak amacıyla tasarlanmış bir **LED Beacon (İşaret Feneri)** prototipidir. 
